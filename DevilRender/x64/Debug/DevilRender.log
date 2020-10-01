@@ -1,0 +1,84 @@
+﻿  DevilRender.cpp
+F:\CODE\c++\DevilRender\DevilRender\Geometry.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+F:\CODE\c++\DevilRender\DevilRender\Geometry.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+F:\CODE\c++\DevilRender\DevilRender\Camera.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+F:\CODE\c++\DevilRender\DevilRender\Geometry.h(59,2): warning C4099: std::Vertex: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+F:\CODE\c++\DevilRender\DevilRender\Geometry.h(58): message : см. объявление "std::Vertex"
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(28,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(28,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(28,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(29,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(29,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(29,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(30,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(30,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(30,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(31,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(31,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(31,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(32,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(32,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(32,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(33,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(33,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(33,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(34,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(34,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\DevilRender.cpp(34,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Rasterizer.cpp
+F:\CODE\c++\DevilRender\DevilRender\Camera.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+F:\CODE\c++\DevilRender\DevilRender\Geometry.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+F:\CODE\c++\DevilRender\DevilRender\Geometry.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+F:\CODE\c++\DevilRender\DevilRender\Geometry.h(59,2): warning C4099: std::Vertex: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+F:\CODE\c++\DevilRender\DevilRender\Geometry.h(58): message : см. объявление "std::Vertex"
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(60,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(61,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(62,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(64,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(65,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(66,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(72,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(73,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(74,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(76,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(77,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(78,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(103,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(104,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(105,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(106,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(107,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(108,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(137,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(138,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(139,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(150,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(151,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(152,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(209,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(210,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(211,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(213,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(214,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(215,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(221,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(222,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(223,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(225,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(226,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(227,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(253,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(254,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(255,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(256,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(257,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(258,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(287,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(288,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(289,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(300,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(301,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(302,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\CODE\c++\DevilRender\DevilRender\Rasterizer.cpp(384,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  DevilRender.vcxproj -> F:\CODE\c++\DevilRender\x64\Debug\DevilRender.exe

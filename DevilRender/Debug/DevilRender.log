@@ -1,0 +1,7 @@
+﻿  DevilRender.cpp
+F:\c++\DevilRender\DevilRender\Geometry.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+F:\c++\DevilRender\DevilRender\Geometry.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+F:\c++\DevilRender\DevilRender\Camera.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+F:\c++\DevilRender\DevilRender\Geometry.h(59,2): warning C4099: std::Vertex: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+F:\c++\DevilRender\DevilRender\Geometry.h(58): message : см. объявление "std::Vertex"
+  DevilRender.vcxproj -> F:\c++\DevilRender\Debug\DevilRender.exe
